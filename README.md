@@ -1,4 +1,4 @@
-# T2AEditor # ### [語音轉文字應用開發平台](https://stt.itri.org.tw/development/manual.php) #
+# T2AEditor# ### [語音轉文字應用開發平台](https://stt.itri.org.tw/development/manual.php) #
 T2A (Text2Action) 語音指令編輯器，是為了工研院語音聲動雲 STT@ITRI之應用
 程式開發者，所提供的一個簡易直覺的語音指令編輯與上傳工具。這個工具的主要
 特點如下：
