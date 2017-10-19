@@ -1,9 +1,9 @@
 # T2AEditor
 
 ### [詳細說明](https://github.com/s0920832252/T2AEditor/blob/master/STT%40ITRI%20%E8%AA%9E%E9%9F%B3%E6%8C%87%E4%BB%A4%E5%8F%A5%E5%9E%8B%E8%A9%9E%E5%BD%99%E7%B7%A8%E8%BC%AF%E5%99%A8%E8%AA%AA%E6%98%8E%E6%9B%B8v9.pdf)
-
-
-
+ 
+ 
+ 
 T2A (Text2Action) 語音指令編輯器，是為了工研院[語音轉文字應用開發平台](https://stt.itri.org.tw/development/manual.php) 的語音聲動雲 STT@ITRI之應用程式開發者，所提供的一個簡易直覺的語音指令編輯與上傳工具。這個工具的主要特點如下：
 1. 採用微軟 Excel 作為客戶端編輯工具。每個.xlsm 檔可設計一到多個 Group，每個 Group 代表一種句型，有自己獨特的名稱 (Group_ID)。
 2. 每個 Group 句型由一到兩個 Slot 組成，每個 Slot 可包含一到多個常數或變數：
