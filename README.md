@@ -1,8 +1,6 @@
 # T2AEditor
-[語音轉文字應用開發平台](https://stt.itri.org.tw/development/manual.php) 
-T2A (Text2Action) 語音指令編輯器，是為了工研院語音聲動雲 STT@ITRI之應用
-程式開發者，所提供的一個簡易直覺的語音指令編輯與上傳工具。這個工具的主要
-特點如下：
+
+T2A (Text2Action) 語音指令編輯器，是為了工研院[語音轉文字應用開發平台](https://stt.itri.org.tw/development/manual.php) 的語音聲動雲 STT@ITRI之應用程式開發者，所提供的一個簡易直覺的語音指令編輯與上傳工具。這個工具的主要特點如下：
 1. 採用微軟 Excel 作為客戶端編輯工具。每個.xlsm 檔可設計一到多個 Group，每個 Group 代表一種句型，有自己獨特的名稱 (Group_ID)。
 2. 每個 Group 句型由一到兩個 Slot 組成，每個 Slot 可包含一到多個常數或變數：
 > 1. 每個常數是一段可被辨識之話語字串。
